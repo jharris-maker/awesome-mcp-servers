@@ -530,3 +530,5 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+- [ObsidianScrub & CMMC 2.0 MCP Server](https://github.com/jharris-maker/obsidian-mcp-server) - Zero-trust CUI/PII/secret sanitizer (`ObsidianScrub`), NIST SP 800-171 Rev 2 (110-control) `SPRS` score calculator, Section 889 supply-chain auditor, and `CertiSafe` Control Barrier Function (`CBF`) verifier.
